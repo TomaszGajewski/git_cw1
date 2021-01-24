@@ -2,7 +2,7 @@
 
 
 ## Installation process:
-1. Use' git clone'
+1. Use' git clone' 
 2. Run 'index.html' in your browser
 
 
